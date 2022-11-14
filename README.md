@@ -6,7 +6,7 @@ Mi name is **Yuri Padilla** and I am originally from Havana, Cuba. I studied Ind
 - Web Development Bootcamp (11.2022 - 02.2023),
 - IT-Administrator bei System Impuls GmbH & Co. KG (09.2020 - 07.2022),
 - Praktikant bei Prozesswerk GmbH (05.2017 - 04.2018).
-- 
+
 > Hobbies:
 - Table Tennis,
 - Travel,
