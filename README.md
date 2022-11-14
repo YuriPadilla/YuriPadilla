@@ -4,8 +4,7 @@ Mi name is **Yuri Padilla** and I am originally from Havana, Cuba. I studied Ind
 
 > Small Resume of my professional life:
 - Web Development Bootcamp,
-- IT-Administrator bei System Impuls GmbH & Co. KG,
-- Praktikant bei Prozesswerk GmbH.
+- IT-Administrator bei System Impuls GmbH & Co. KG.
 
 > Hobbies:
 - Table Tennis,
