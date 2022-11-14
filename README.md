@@ -14,4 +14,4 @@ Mi name is **Yuri Padilla** and I am originally from Havana, Cuba. I studied Ind
 
 Many greetings to all of you!!!
 
-[a Picture](https://tenor.com/view/smiley-gif-25348437)
+![happy face](https://tenor.com/view/smiley-gif-25348437)
