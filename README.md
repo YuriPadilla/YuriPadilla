@@ -1,4 +1,4 @@
-# Welcome to my GitHub profil.
+# Welcome to my GitHub profil
 
 Mi name is **Yuri Padilla** and I am originally from Havana, Cuba. I studied Industrial Engineering and I have been living in Germany since the end of 2016.
 
